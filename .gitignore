@@ -1,4 +1,3 @@
-
 # Created by https://www.gitignore.io/api/java,eclipse
 
 ### Eclipse ###
@@ -16,7 +15,7 @@ local.properties
 .recommenders
 
 # External tool builders
-.externalToolBuilders/
+*.externalToolBuilders/
 
 # Locally stored "Eclipse launch configurations"
 *.launch
@@ -25,38 +24,38 @@ local.properties
 *.pydevproject
 
 # CDT-specific (C/C++ Development Tooling)
-.cproject
+*.cproject
 
 # Java annotation processor (APT)
-.factorypath
+*.factorypath
 
 # PDT-specific (PHP Development Tools)
-.buildpath
+*.buildpath
 
 # sbteclipse plugin
-.target
+*.target
 
 # Tern plugin
-.tern-project
+*.tern-project
 
 # TeXlipse plugin
-.texlipse
+*.texlipse
 
 # STS (Spring Tool Suite)
-.springBeans
+*.springBeans
 
 # Code Recommenders
-.recommenders/
+*.recommenders/
 
 # Scala IDE specific (Scala & Java development for Eclipse)
-.cache-main
-.scala_dependencies
-.worksheet
+*.cache-main
+*.scala_dependencies
+*.worksheet
 
 ### Eclipse Patch ###
 # Eclipse Core		
-.project
-.settings
+*.project
+*.settings
 
 # JDT-specific (Eclipse Java Development Tools)		
 .classpath
