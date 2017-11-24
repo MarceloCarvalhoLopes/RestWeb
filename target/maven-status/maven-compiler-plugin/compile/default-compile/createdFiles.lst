@@ -1,0 +1,5 @@
+dao\rest\UserDao.class
+service\rest\ServiceLogin.class
+service\rest\RestCliente.class
+service\rest\UserService.class
+bean\rest\Usuario.class
